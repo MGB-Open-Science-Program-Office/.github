@@ -38,4 +38,6 @@ The MGB OSPO will release a rolling set of science best documents for clinical -
 Whether it's figuring out what licenses to use, where open science fits into your work, or how to simply get started, the MGB OSPO can provide you with consultation on best open source practices and resources for your project. Reach out to our team at [OpenScience@mgb.org](OpenScience@mgb.org).
 
 
-All Licenses and content are supplied by Mass General Brigham under the MGB 1.0 License. 
+All Licenses and content are supplied by Mass General Brigham under the MGB 1.0 License.
+
+Communication of information by, in, to or through these repositories (including the best practice documents) and your receipt or use of it (1) is not provided in the course of and does not create or constitute an attorney-client relationship, (2) is not intended to convey or constitute legal advice, and (3) is not a substitute for obtaining legal advice from a qualified attorney.   You should not act upon any such information without first seeking qualified professional counsel on your specific matter.   
