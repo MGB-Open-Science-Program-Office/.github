@@ -44,6 +44,6 @@ Whether it's figuring out what licenses to use, where open science fits into you
 
 
 
-_All Licenses and content are provided by Mass General Brigham under the MGB 1.0 License._
+_All Licenses and content are provided by Mass General Brigham under the MGB 1.0 License unless otherwise provided._
 
 _Communication of information by, in, to or through these repositories (including the best practice documents) and your receipt or use of it (1) is not provided in the course of and does not create or constitute an attorney-client relationship, (2) is not intended to convey or constitute legal advice, and (3) is not a substitute for obtaining legal advice from a qualified attorney.   You should not act upon any such information without first seeking qualified professional counsel on your specific matter._
