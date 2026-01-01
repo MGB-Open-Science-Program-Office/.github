@@ -3,13 +3,13 @@
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/23d2e465-ea96-4663-af1a-5120153eac62" />
 
 
-**The Mass General Brigham Open Science Program Office** is the organizational hub that coordinates, facilitates, and supports open science activity* at Mass General Brigham.  As many of MGB’s research and clinical teams are utilizing open collaborative approaches, the MGB OSPO, by way of MGB – Innovation, provides support and infrastructure to enable transparent, compliant technology development. Through the MGB open science license library, open science best practice guides, and other educational programming, we aim to advance patient-centered research and innovation by supporting digital innovators with system resources that enable academic, clinical, and commercial outcomes.
+**The Mass General Brigham Open Science Program Office** is the organizational hub that coordinates, facilitates, and supports open science activity at Mass General Brigham.  As many of MGB’s research and clinical teams are utilizing open collaborative approaches, the MGB OSPO, by way of MGB – Innovation, provides support and infrastructure to enable transparent, compliant technology development. Through the MGB open science license library, open science best practice guides, and other educational programming, we aim to advance patient-centered research and innovation by supporting digital innovators with system resources that enable academic, clinical, and commercial outcomes.
 
 Beyond community building, we are hyper-focused on addressing the unique pitfalls and compliance risks surrounding open science innovation in clinical-research and digital health at Mass General Brigham and other academic medical settings. 
 
 
 
-# Our Scope* 
+# Our Scope
 
 
 <img width="800" height="410" alt="image" src="https://github.com/user-attachments/assets/3149c9c6-6aaa-45c4-9bb8-4e574bcc3977" />
@@ -20,7 +20,7 @@ Beyond community building, we are hyper-focused on addressing the unique pitfall
 
 <img width="975" height="359" alt="image" src="https://github.com/user-attachments/assets/523e6a87-5b1a-4a58-9ec4-282862cdc4f9" />
 
-**_The MGB Open Science License Library_**
+# The MGB Open Science License Library
 
 Although historically MGB – Innovation has encouraged the use of an OSI – approved open source license, when forming the OSPO we listened to various concerns and feedback from MGB leadership and MGB innovators which lead to the creation of a MGB open science library of recommended licenses.  The MGB OSPO aims to support open science and other research and development projects that employ open source development practices through paradigms that are not truly open source such as open access, source available, and inner source.  Although the MGB open science license library will evolve and expand with emerging technologies, the MGB OSPO is committed to providing MGB innovators with a system compliant permissive open source license than is ai model and commercialization compatible, but also to supporting those developers who are only utilizing limited elements of open – science to drive innovation.
 
@@ -29,11 +29,11 @@ Although historically MGB – Innovation has encouraged the use of an OSI – ap
 
 
 
-**_MGB Open Science Best Practices_**
+# MGB Open Science Best Practice Guides
 
 The MGB OSPO will release a rolling set of science best documents for open science in clinical - research focusing on the application of the MGB open science license library,  sharing code to repositories, data  use FAIR principals, open tools, and open access publishing ensuring research is discoverable, accessible, and reusable for others. 
 
-**_Consultations_**
+# Consultations 
 
 Whether it's figuring out what licenses to use, where open science fits into your work, or how to simply get started, the MGB OSPO can provide you with consultation on best open source practices and resources for your project. Reach out to our team at [OpenScience@mgb.org](OpenScience@mgb.org).
 
@@ -42,6 +42,10 @@ Whether it's figuring out what licenses to use, where open science fits into you
 
 
 
+
+
+
+# 
 
 
 _All Licenses and content are provided by Mass General Brigham under the MGB 1.0 License unless otherwise provided._
