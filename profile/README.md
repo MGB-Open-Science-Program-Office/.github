@@ -35,7 +35,7 @@ The MGB OSPO will release a rolling set of science best documents for open scien
 
 # Consultations 
 
-Whether it's figuring out what licenses to use, where open science fits into your work, or how to simply get started, the MGB OSPO can provide you with consultation on best open source practices and resources for your project. Reach out to our team at [OpenScience@mgb.org](OpenScience@mgb.org).
+Whether it's figuring out what licenses to use, where open science fits into your work, or how to simply get started, the MGB OSPO can provide MGB employees and affiliates with consultation on best open source practices and resources for your project. Reach out to our team at [OpenScience@mgb.org](OpenScience@mgb.org).
 
 
 
